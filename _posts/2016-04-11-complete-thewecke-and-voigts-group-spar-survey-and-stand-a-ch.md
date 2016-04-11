@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Complete theWecke & Voigts Group SPAR Survey, and stand a chance to\_WIN\_2 nights accommodation at\_Grande Rochein Paarl, which includes flights to Cape Town for 2 persons, to the value of N$ 20 000."
-datePublished: '2016-04-11T08:30:17.502Z'
-dateModified: '2016-04-11T08:08:17.226Z'
+datePublished: '2016-04-11T09:25:54.760Z'
+dateModified: '2016-04-11T08:51:52.668Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-complete-thewecke-and-voigts-group-spar-survey-and-stand-a-ch.md
